@@ -4,7 +4,7 @@
   "main": "app.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lit-html": "^1.2.1"
   },
   "devDependencies": {
